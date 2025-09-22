@@ -1,4 +1,4 @@
-name: local-acceptance-stage
+name: local-acceptance-stage-java
 
 on:
   push:
